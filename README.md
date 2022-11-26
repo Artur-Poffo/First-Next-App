@@ -1,2 +1,2 @@
-# Iniciando em Next.js!
-### E testando a hospedagem da Vercel!
+# Starting in Next.js!
+### And testing Vercel hosting!
